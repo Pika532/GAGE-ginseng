@@ -1,6 +1,5 @@
 # GAGE: A Graph-based and Prototype-Guided Framework for Fine-Grained Visual Ginseng Age Estimation
 
-# 林下山参年限估计数据集
 
 ## 1. Download Link 
 
