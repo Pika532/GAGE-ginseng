@@ -6,7 +6,7 @@
 The dataset is hosted on Baidu Netdisk. Please use the link and extraction code below to download.
 
 * **Dataset Link:** [[Ginseng](https://pan.baidu.com/s/1Fy0P0hd9fhQRWzVgPQ2Y4g?pwd=dp28)]
-* **Password / Extraction Code:** [在此处填写4位提取码]
+* **Model Link:** [[Weight](https://pan.baidu.com/s/1ADQTLJDWRM-X2opxJ6CTWQ?pwd=3ckc)]
 
 
 ## 2. Dataset Overview 
